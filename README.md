@@ -28,17 +28,6 @@
   
 </p>
 
-<!-- <h3 align='left'>My Recent Blog Posts:</h3>
-<p align='left'>
-  
-<!-- BLOG-POST-LIST:START -->
-- [Type Testing my Way to Coding Creativity](https://henr-eth.medium.com/type-testing-my-way-to-coding-creativity-d461f43a448f?source=rss-f6d7a68e750c------2)
-- [Its a Match!](https://henr-eth.medium.com/its-a-match-1ccd24730254?source=rss-f6d7a68e750c------2)
-- [Reacting to Goodreads](https://henr-eth.medium.com/reacting-to-goodreads-2cb30714dbfe?source=rss-f6d7a68e750c------2)
-- [Ticket Tool:](https://henr-eth.medium.com/fetch-requests-inputs-and-a-dynamic-url-4fe15919e877?source=rss-f6d7a68e750c------2)
-<!-- BLOG-POST-LIST:END -->
-  
-</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
