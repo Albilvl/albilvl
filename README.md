@@ -6,7 +6,7 @@
 <div align='center'>
   <a href="https://www.linkedin.com/in/albankole">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<!--   </a>
+  </a>
     <a href="https://medium.com/">
       <img src="https://img.shields.io/badge/Medium-gray?logo=medium&logoColor=white&style=for-the-badge" alt="@henr-eth"/>
   </a> -->
