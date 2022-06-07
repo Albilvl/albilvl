@@ -20,7 +20,7 @@
 
 <p align='left'>
   
--  :books: I’m currently learning **Algorithms** and **Data Structures**.
+
 
 - 🛠 My last project was: [**Freedle**](https://github.com/albilvl/freedle), a fun five word puzzle game inspired by the very popular Wordle, utilizing complex logic and css to recreate the experience.
 
