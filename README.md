@@ -35,7 +35,7 @@ I'm looking for Frontend Software Engineering roles primarily, and secondly for 
   
   - 🛠 My last project was: [**Kloset**](https://github.com/albilvl/kloset), an intuitive closet organizer built with react frontend and ruby on rails backend.
   
-  - 🌱 I’m currently learning ... Data Strucrures and Algorithms
+  - 🌱 I’m currently learning ... Data Structures and Algorithms
   - 💬 Ask me about ... Soccer
   - 📫 How to reach me: ...   <a href="https://www.linkedin.com/in/albankole"> Here! <a/>
 
