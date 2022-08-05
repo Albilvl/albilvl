@@ -27,13 +27,17 @@
 Welcome to my Github! I'm a Software Engineer, with a background in coaching and psychology. 
 I have experience with HTML, CSS, Javascript, React, SQL, Ruby, Object-Oriented Programming, Ruby on Rails, Sinatra, ActiveRecord, Heroku, SQLite, PostgreSQL, RSpec, MVC Software Architecture.
 
-I'm looking for Frontend Software Engineering roles primarily, and secondly for roles as a Full-Stack Software Engineer. I am always interested in environments where i can continue to grow and learn new languages.
+I'm looking for Frontend Software Engineering roles primarily, and secondly for roles as a Full-Stack Software Engineer. I am always interested in environments where i can continue to grow and learn new languages such as Python, three.js, Java, C#, C++, Vue.js, etc.
   
 </p>
   
  <hr/>
   
   - 🛠 My last project was: [**Kloset**](https://github.com/albilvl/kloset), an intuitive closet organizer built with react frontend and ruby on rails backend.
+  
+  - 🌱 I’m currently learning ... Data Strucrures and Algorithms
+  - 💬 Ask me about ... Soccer
+  - 📫 How to reach me: ...   <a href="https://www.linkedin.com/in/albankole"> Here! <a/>
 
 
 
