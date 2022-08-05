@@ -9,7 +9,7 @@
     <a/>
   <p> 
     <img src="https://komarev.com/ghpvc/?username=albilvl&label=Profile%20views&color=lightgrey&style=flat-square" alt="albilvl" /> 
-    <img src="https://img.shields.io/github/followers/albilvl?label=Followers&color=lightgrey&style=flat-square" alt="albilvl" />
+<!--     <img src="https://img.shields.io/github/followers/albilvl?label=Followers&color=lightgrey&style=flat-square" alt="albilvl" /> -->
     <img src="https://badges.pufler.dev/repos/albilvl?color=lightgrey&style=flat-square" alt="albilvl" />
   </p>
 
@@ -24,8 +24,7 @@
 
 
 
-Welcome to my Github! I'm a Software Engineer, with a background in coaching and psychology. I am a Software Engineering program graduate.
-
+Welcome to my Github! I'm a Software Engineer, with a background in coaching and psychology. 
 I have experience with HTML, CSS, Javascript, React, SQL, Ruby, Object-Oriented Programming, Ruby on Rails, Sinatra, ActiveRecord, Heroku, SQLite, PostgreSQL, RSpec, MVC Software Architecture.
 
 I'm looking for Frontend Software Engineering roles primarily, and secondly for roles as a Full-Stack Software Engineer. I am always interested in environments where i can continue to grow and learn new languages.
@@ -46,16 +45,6 @@ I'm looking for Frontend Software Engineering roles primarily, and secondly for 
    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
-<!--  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<!--  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
-<!--    <a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
-<!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
- <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="r-studio" width="40" height="40"/> </a>  -->
-
-<!-- <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>  -->
 </p>
 
 
