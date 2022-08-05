@@ -6,6 +6,7 @@
 <div align='center'>
   <a href="https://www.linkedin.com/in/albankole">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a/>
   <p> 
     <img src="https://komarev.com/ghpvc/?username=albilvl&label=Profile%20views&color=lightgrey&style=flat-square" alt="albilvl" /> 
     <img src="https://img.shields.io/github/followers/albilvl?label=Followers&color=lightgrey&style=flat-square" alt="albilvl" />
