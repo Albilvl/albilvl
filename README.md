@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<h1 align="center">Yerrr, its's Al</h1>
+<h1 align="center">Hi there, I'm Al 👋🏾👨🏾‍💻</h1>
 <h3 align="center">I'm a Software Engineer </h3>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/albankole">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://medium.com/">
-      <img src="https://img.shields.io/badge/Medium-gray?logo=medium&logoColor=white&style=for-the-badge" alt="@henr-eth"/>
-  </a> -->
   <p> 
     <img src="https://komarev.com/ghpvc/?username=albilvl&label=Profile%20views&color=lightgrey&style=flat-square" alt="albilvl" /> 
     <img src="https://img.shields.io/github/followers/albilvl?label=Followers&color=lightgrey&style=flat-square" alt="albilvl" />
@@ -22,7 +18,18 @@
   
 
 
-- 🛠 My last project was: [**Freedle**](https://github.com/albilvl/freedle), a fun five word puzzle game inspired by the very popular Wordle, utilizing complex logic and css to recreate the experience.
+- 🛠 My last project was: [**Kloset**](https://github.com/albilvl/kloset), an intuitive closet organizer built with react frontend and ruby on rails backend.
+
+
+
+
+
+Welcome to my Github! I'm a Software Engineer, with a background in coaching and psychology. I am a Software Engineering program graduate.
+
+I have experience with HTML, CSS, Javascript, React, SQL, Ruby, Object-Oriented Programming, Ruby on Rails, Sinatra, ActiveRecord, Heroku, SQLite, PostgreSQL, RSpec, MVC Software Architecture.
+
+I'm looking for Frontend Software Engineering roles primarily, and secondly for roles as a Full-Stack Software Engineer. I am always interested in environments where i can continue to grow and learn new languages.
+
 
 
   
